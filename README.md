@@ -1,5 +1,5 @@
 # sql-task-2
-Data Insertion and Null Handling
+Data Insertion,Updation,Deletion and Null Handling
 
 This task includes:
 - Table creation for Employee
